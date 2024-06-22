@@ -1,0 +1,79 @@
+﻿<Window x:Class="LibraryManagementSystemWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryManagementSystemWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="800">
+    <StackPanel>
+        <Label 
+            x:Name="LB_Books"
+            Content="Books List: "
+        />
+        <ListBox 
+            x:Name="LV_Books"
+            Height="100" 
+            Margin="0,0,0,5"
+            d:ItemsSource="{d:SampleData ItemCount=5}"
+            MouseLeftButtonUp="Books_Clicked"
+        />
+        <Button 
+            x:Name="BT_NewBook"
+            Width="200"
+            Margin="0,0,0,10"
+            HorizontalAlignment="Center"
+            Content="New Book"
+            Click="NewBook_Click"
+        />
+
+        <Label 
+            x:Name="LB_Borrowers"
+            Content="Borrowers List: "
+        />
+        <ListBox 
+            x:Name="LV_Borrowers"
+            Height="100" 
+            Margin="0,0,0,5"
+            d:ItemsSource="{d:SampleData ItemCount=5}"
+            MouseLeftButtonUp="Borrowers_Clicked"
+        />
+        <Button 
+            x:Name="BT_NewBorrower"
+            Width="200"
+            Margin="0,0,0,10"
+            HorizontalAlignment="Center"
+            Content="New Borrower"
+            Click="NewBorrower_Click"
+        />
+
+        <Label 
+            x:Name="LB_Borrows"
+            Content="Borrows List: "
+        />
+        <ListBox 
+            x:Name="LV_Borrows"
+            Height="100" 
+            Margin="0,0,0,0"
+            d:ItemsSource="{d:SampleData ItemCount=5}"
+        />
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button 
+                x:Name="BT_NewBorrow"
+                Width="200"
+                Margin="0,5,15,15"
+                HorizontalAlignment="Center"
+                Content="New Borrow"
+                Click="NewBorrow_Click"
+            />
+            <Button 
+                x:Name="BT_ListAll"
+                Width="200"
+                Margin="0,5,15,15"
+                HorizontalAlignment="Center"
+                Content="List All"
+                Click="ListAll_Click"
+            />
+        </StackPanel>
+    </StackPanel>
+</Window>

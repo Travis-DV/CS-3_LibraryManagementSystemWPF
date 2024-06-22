@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\librarymanagementsystemwpf\\librarymanagementsystemwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|solutionrelative:librarymanagementsystemwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\librarymanagementsystemwpf\\librarymanagementsystemwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|solutionrelative:librarymanagementsystemwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\librarymanagementsystemwpf\\librarymanagementsystemwpf\\newborrow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|solutionrelative:librarymanagementsystemwpf\\newborrow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\librarymanagementsystemwpf\\librarymanagementsystemwpf\\newborrow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|solutionrelative:librarymanagementsystemwpf\\newborrow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\librarymanagementsystemwpf\\librarymanagementsystemwpf\\newborrower.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|solutionrelative:librarymanagementsystemwpf\\newborrower.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\librarymanagementsystemwpf\\librarymanagementsystemwpf\\newborrower.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|solutionrelative:librarymanagementsystemwpf\\newborrower.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\librarymanagementsystemwpf\\librarymanagementsystemwpf\\newbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|solutionrelative:librarymanagementsystemwpf\\newbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|c:\\users\\travis\\onedrive - findley\\documents\\github\\librarymanagementsystemwpf\\librarymanagementsystemwpf\\newbook.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{BC65A3C3-C4CA-4E28-B401-D2F6952C8A14}|LibraryManagementSystemWPF\\LibraryManagementSystemWPF.csproj|solutionrelative:librarymanagementsystemwpf\\newbook.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewBorrow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\NewBorrow.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemWPF\\NewBorrow.xaml.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\NewBorrow.xaml.cs",
+              "RelativeToolTip": "LibraryManagementSystemWPF\\NewBorrow.xaml.cs",
+              "ViewState": "AQIAABAAAACA/////38twDQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T04:15:50.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewBorrow.xaml",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\NewBorrow.xaml",
+              "RelativeDocumentMoniker": "LibraryManagementSystemWPF\\NewBorrow.xaml",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\NewBorrow.xaml",
+              "RelativeToolTip": "LibraryManagementSystemWPF\\NewBorrow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T04:15:45.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewBorrower.xaml",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\NewBorrower.xaml",
+              "RelativeDocumentMoniker": "LibraryManagementSystemWPF\\NewBorrower.xaml",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\NewBorrower.xaml",
+              "RelativeToolTip": "LibraryManagementSystemWPF\\NewBorrower.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T03:56:17.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewBorrower.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\NewBorrower.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemWPF\\NewBorrower.xaml.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\NewBorrower.xaml.cs",
+              "RelativeToolTip": "LibraryManagementSystemWPF\\NewBorrower.xaml.cs",
+              "ViewState": "AQIAABAAAACAmZmZmRkmwBsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T03:56:30.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewBook.xaml",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\NewBook.xaml",
+              "RelativeDocumentMoniker": "LibraryManagementSystemWPF\\NewBook.xaml",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\NewBook.xaml",
+              "RelativeToolTip": "LibraryManagementSystemWPF\\NewBook.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T03:19:26.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewBook.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\NewBook.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemWPF\\NewBook.xaml.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\NewBook.xaml.cs",
+              "RelativeToolTip": "LibraryManagementSystemWPF\\NewBook.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T03:38:02.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LibraryManagementSystemWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\MainWindow.xaml",
+              "RelativeToolTip": "LibraryManagementSystemWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T03:59:48.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystemWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\travis\\OneDrive - Findley\\Documents\\Github\\LibraryManagementSystemWPF\\LibraryManagementSystemWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LibraryManagementSystemWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAHUAAAAIZGZmZqYrwHoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:30:08.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
